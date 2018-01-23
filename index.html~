@@ -1,0 +1,263 @@
+<!-- This entire file shamelessly stolen as-is from Jon Barron's website: http://www.cs.berkeley.edu/~barron/ -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0035)http://www.cs.berkeley.edu/~barron/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+
+<!-- Add icon library -->
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style type="text/css">
+    style="margin:10px;"
+    /* Color scheme stolen from Sergey Karayev */
+    a {
+    color: #1772d0;
+    text-decoration:none;
+    }
+    a:focus, a:hover {
+    color: #f09228;
+    text-decoration:none;
+    }
+    body,td,th,tr,p,a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px
+    }
+    
+    strong {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    }
+    heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px;
+    }
+    papertitle {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700
+    }
+    name {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    } style="text-align:justify"
+    .one
+    {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    }
+    .two
+    {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .1s ease-in-out;
+    -moz-transition: opacity .1s ease-in-out;
+    -webkit-transition: opacity .1s ease-in-out;
+    }
+    .fade {
+     transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+     -webkit-transition: opacity .2s ease-in-out;
+    }
+
+.im {
+  border-radius: 50%;
+}
+
+
+
+.container {width:960px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background:#fff; }
+  </style>
+  <div class="container">
+  <link rel="icon" type="image/png" href="http://www.eecs.berkeley.edu/%7Erakelly/berkeley_seal.png">
+  <title>Nimisha T M</title>
+  
+  <link href="Kate%20Rakelly_files/css.html" rel="stylesheet" type="text/css">
+  </head>
+ 
+ <body style="background-color:#F0F8FF;text-align:center">
+  <table width="900" border="0" cellpadding="0" cellspacing="0" align="center">
+   <div style="background-color: #85D6F5; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 20px; padding-right: 20px; padding-top: 8px;">
+    <div float="left"><name>Nimisha T M</name><br></div>
+    <div float="right">Contact details: ESB:320, IPCV Lab, EE Department, IIT Madras, Chennai, 600036 </div>
+</div> 
+
+<a href="#research">Research : </a>
+<a  href="#publ">Publications</a>  
+
+  
+
+    <tbody><tr>
+    <td>
+      <table width="100%" border="0" cellpadding="20" cellspacing="0" align="center">
+      <tbody><tr>
+        <td valign="middle" width="67%">
+        <p align="center">
+      
+         
+          </p>
+        <p  style="text-align:justify">I am a PhD student at <a href="https://www.iitm.ac.in/">IIT Madras</a>, where I work with <a href="http://www.ee.iitm.ac.in/ipcvlab/">Prof. A N Rajagopalan</a> in the field of image processing and computer vision. 
+    
+             I did my Masters at NIT Calicut in Signal Processing (2011-13), where I worked with <a href="http://ece.nitc.ac.in/index.php?option=com_php&Itemid=66&uname=abhilash">Dr. G Abhilash</a> in Compressed sensing based signal recovery techniques. 
+
+            Check out my <a  href="images/cv.pdf">CV</a> here and links to some of the academics pages <a href="https://www.linkedin.com/in/nimisha-t-m-216161110/"><img src="https://png.icons8.com/color/50/000000/linkedin.png" height="20" width="20"></a><a href="https://scholar.google.co.in/citations?user=jSr4uEQAAAAJ&hl=en&authuser=2"><img src="https://png.icons8.com/office/40/000000/student-female.png" width="20" height="20"></a><a href="https://orcid.org/0000-0003-1945-1189" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="20" height="20" alt="ORCID iD icon">orcid.org/0000-0003-1945-1189</a>
+        </p>
+        <p align="center">
+        </p>
+        </td>
+        <td width="25%">
+          <img src="images/dp.png" class="im" height="150" width="150" >
+
+        </td>
+      </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellpadding="20" cellspacing="0" align="center">
+<div style="background-color: #85D6F5; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 20px; padding-right: 20px; padding-top: 8px;">
+ <heading id="research">Research Topics</heading> 
+</div> 
+      <tbody><tr>
+         <td valign="middle" width="100%">     
+        
+          <p  style="text-align:justify">
+
+          I work in area of low-level vision and image restoration. My research interest includes compressed sensing, Depth from defocus, Dictionary based reconstruction and Camera mapping. I am also interested in the of-late deep learning frameworks for vision.
+         </p>
+         </td>
+         </tr>
+ </tbody></table>
+
+
+  <table width="100%" border="0" cellpadding="20" cellspacing="0" align="center">
+         <tbody><tr onmouseout="bs_stop()" onmouseover="bs_start()">
+          <td width="25%">
+          <img src="images/pan/Graphical.png" width="300px" height="150px"> 
+              </td>
+              <td valign="top" width="55%">
+              <papertitle>From videos to Pan Photography</papertitle></a><br>
+              <p  style="text-align:justify">We synthesize pan photos from motion blurred videos. Pan photography is an artistic photography intended to capture motion in images. It improves the aesthetic feel of an image. But capturing such images require great amount of skill and effort. We ease this by synthesising the same from a captured video. 
+        
+          <tbody><tr>
+          <td width="35%">
+          <img src="images/3d/3d.png" width="300px" height="150px"> 
+              </td>
+              <td valign="top" width="55%"<a href="#top">Top</a>>
+              <papertitle>Dictionary Based 3D scene Reconstruction</papertitle></a><br>
+              <p  style="text-align:justify"> Sparse representations has found great application in image processing community. The central idea here is that any natural signal can be represented sparsely in an overcomplete dictionary. We use this idea to estimate the latent image and depth map from a space variantly blurred image. 
+
+          <tbody><tr>
+          <td width="35%">
+          <img src="images/camera/new2.png" width="300px" height="150px"> 
+              </td>
+              <td valign="top" width="55%">
+              <papertitle>Cross Camera Mapping</papertitle></a><br>
+              <p  style="text-align:justify"> The photometric properties of a scene changes with varying camera and illumination. Finding a representation inavariant to these changes is of great importance in finding changes between scenes taken under different tiimes of day with different cameras.             
+             
+
+
+           <tbody><tr>
+          <td width="35%">
+          <img src="images/uw/result.png" width="300px" height="150px"> 
+              </td>
+              <td valign="top" width="55%">
+              <papertitle>Under-water Color Correction</papertitle></a><br>
+              <p  style="text-align:justify"> Haze and color loss are the major problems in underwater imaging. When light propagates inside the water medium due to scattering particles, different wavelengths gets attenuated diffrently with depth. This leads to color loss and hazy affect in the captured underwater scenes. We propose here a method to color correct these images and produce its equivalent as seen from above water surface. 
+
+              <tbody><tr>
+          <td width="35%">
+          <img src="images/3DSR/3DSR_web.png" width="300px" height="150px"> 
+       
+         
+              </td>
+              <td valign="top" width="55%">
+              <papertitle>Blind-Superresolution of 3D scenes</papertitle></a><br>
+              <p  style="text-align:justify"> Estimating depth map and a high resolution image from a bunch of low resolution motion blurred images is dealt here. Given the LR frames we estimate the HR camera motion. This is used to iteratively solve for the depth map and HR clean frame using a cost function relating the two.
+             
+           <tbody><tr>
+          <td width="35%">
+          <div class="w3-content w3-display-container">
+  <img class="mySlides" src="images/iccv/Final_architecture.jpg" style="width:100%" idth="300px" height="150px">
+  <img class="mySlides" src="images/iccv/iccv_web.png" style="width:100%" idth="300px" height="150px">
+  
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+              </td>
+              <td valign="top" width="55%">
+              <papertitle>Blur-Invariant Deblurring</papertitle></a><br>
+              <p  style="text-align:justify"> Single image blind-deblurring is a highly ill-posed problem. We propose a deep network which can learn blur-invariant features. Our network consists of two stages. Stage I is an encoder-decoder that learns clean data representation and  Stage II consists of a Generative Adversarial network that learns to map a blurred frame to the clean representation.  <a href="#top">Top</a>
+
+              </td>
+              </tr>
+  </tbody></table>
+
+        </tbody></table>
+      <table width="100%" border="0" cellpadding="20" cellspacing="0" align="center">
+      <tbody><tr>
+        <td>
+<div style="background-color: #85D6F5; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 20px; padding-right: 20px; padding-top: 8px;">
+ <heading id="publ">Publications</heading> 
+</div>
+ 
+         <ul>
+        <li> Nimisha T M, Rajagopalan A. N., and Rangarajan Aravind. "Seamless Change Detection and Mosaicing for Aerial Imagery." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2015.   <a href="images/camera/02.pdf">[paper]</a>  <a href="images/camera/nimi_poster.pdf">[Poster]</a></li>
+        <li>Nimisha T M, Arun M and Rajagopalan A.N. "Dictionary Replacement for Single Image Restoration of 3D Scenes." BMVC 2016.  <a  href="images/3d/final078.pdf">[paper]</a>  <a href="images/3d/conference_poster_2.pdf">[Poster]</a> <a href="images/3d/supp078.pdf">[Supplementary]</a> <a href="images/3d/abstract078.pdf">[Extended Abstract]</a></li>
+        <li>Nimisha T M, Karthik S and Rajagopalan A N. "Color Restoration in Turbid Medium." ICVGIP 2016 <a href="images/uw/ICVGIP_2016_pdf155.pdf">[paper]</a>  <a href="images/uw/Supplementary_pdf155.pdf">[Supplementary]</a></li>
+         <li>T.M Nimisha, Akash Kumar Singh, and A.N.Rajagopalan, "Blur-Invariant Deep Learning for Blind Deblurring," IEEE International Conference on Computer Vision (ICCV), Venice, Italy, October 2017</a><a  href="images/iccv/2134.pdf">[paper]</a>  <a href="images/iccv/Poster.pdf">[Poster]</a> <a href="images/iccv/2134-supp.pdf">[Supplementary]</a> 
+	<li>Abhijith Punnappurath, T. M. Nimisha, and A.N. Rajagopalan,"Multi-image blind super-resolution of 3D scenes,"IEEE Transactions on Image Processing., Vol. 26, No. 11, pp. 5337-5352, November 2017.</a><a  href="images/3DSR/Manuscript.pdf">[paper]</a>  <a href="images/3DSR/Supplementary.pdf">[Supplementary]</a>
+      </ul> 
+      </td>
+      </tr>
+      </tbody></table>
+
+
+      <table width="100%" border="0" cellpadding="20" align="center">
+       <tbody><tr>
+        <td>
+  <div style="background-color: #85D6F5; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 20px; padding-right: 20px; padding-top: 8px;">
+ <heading id="teachings">Teaching Assistant</heading>
+</div>
+         <ul>
+         	<li>EE1100 - Basic Electrical Engineering
+          	<li>EE5175 - Image Signal Processing
+  		<li> EE5410 : Introduction to DSP
+		<li> Basic probability
+		<li> EE6132 : Advanced Topics in Signal Processing (Deep learning for image processing)
+	</ul>        
+       
+        </td>
+      </tr>
+      </tbody></table>
+
+   <div>
+  <a href="#top">Top</a>
+
+</body></html>
