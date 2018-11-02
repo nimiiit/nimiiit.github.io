@@ -213,15 +213,15 @@ function showDivs(n) {
               </td>
               <td valign="top" width="55%">
               <papertitle>Blur-Invariant Deblurring</papertitle></a><br>
-              <p  style="text-align:justify"> Single image blind-deblurring is a highly ill-posed problem. We propose a deep network which can learn blur-invariant features. Our network consists of two stages. Stage I is an encoder-decoder that learns clean data representation and  Stage II consists of a Generative Adversarial network that learns to map a blurred frame to the clean representation.  <a href="#top">Top</a>
-
+              <p  style="text-align:justify"> Single image blind-deblurring is a highly ill-posed problem. We propose a deep network which can learn blur-invariant features. Our network consists of two stages. Stage I is an encoder-decoder that learns clean data representation and  Stage II consists of a Generative Adversarial Network (GAN) that learns to map a blurred frame to the clean representation.  
 <tbody><tr>
           <td width="35%">
           <img src="images/unsupervised.jpg" width="300px" height="150px"> 
               </td>
               <td valign="top" width="55%">
               <papertitle>Unsupervised Deblurring</papertitle></a><br>
-              <p  style="text-align:justify"> Haze and color loss are the major problems in underwater imaging. When light propagates inside the water medium due to scattering particles, different wavelengths gets attenuated diffrently with depth. This leads to color loss and hazy affect in the captured underwater scenes. We propose here a method to color correct these images and produce its equivalent as seen from above water surface. 
+              <p  style="text-align:justify"> Deep networks usually work with paired input-output samples. But in most of the cases capturing such data pairs is difficult or impossible. Hence, a network that can be trained with no data pairing is what we look forward for. We propose a GAN based network for class-specific deblurring. To constrain the solution space, we also add a reblurring and gradient modules to the network. <a href="#top">Top</a>
+
 
        
 
